@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyActionBar</string>
+    <string name="search_hint_text">Masukkan kata kunci</string>
+
+</resources>
